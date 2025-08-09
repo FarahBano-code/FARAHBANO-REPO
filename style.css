@@ -74,7 +74,7 @@ body {
   justify-content: center;
   text-align: center;
   align-items: center;
-  /* height: 500px; */
+  height:200vh
 }
 
 .contact {
@@ -100,4 +100,5 @@ body {
 
 .emails{
   margin-top: 20px;
+
 }
