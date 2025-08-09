@@ -15,6 +15,12 @@ body {
   margin-bottom: 0px !important;
 }
 
+.navbar-toggler {
+    border-color: white; 
+    color: white !important;
+    background-color: white;
+}
+
 .nav-link:hover {
   color: white !important;
 }
@@ -102,4 +108,217 @@ body {
   margin-top: 20px;
 
 }
+
+
+@media (min-width: 0px) and (max-width: 344px) {
+  .contact {
+    font-size: 40px !important;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 375px) {
+  .emails {
+    font-size: 15px !important;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 500px) {
+  .emails {
+    font-size: 20px !important;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 584px) {
+  .contact {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 768px) {
+  .small {
+    width: 80vw;
+  }
+
+  .box {
+    width: 65vw !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .box {
+    width: 800px !important;
+  }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .box {
+    width: 500px !important;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 614px) {
+  .about {
+    width: 80vw;
+  }
+
+  .nav {
+    padding: 15px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 330px) {
+  .tro {
+    padding-top: 650px;
+  }
+}
+
+@media (min-width: 330px) and (max-width: 400px) {
+  .tro {
+    padding-top: 550px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 519px) {
+  .tro {
+    padding-top: 450px;
+  }
+}
+
+@media (min-width: 520px) and (max-width: 614px) {
+  .tro {
+    padding-top: 300px;
+  }
+}
+
+@media (min-width: 615px) and (max-width: 767px) {
+  .about {
+    width: 600px;
+  }
+
+  .tro {
+    padding-top: 250px;
+  }
+
+  .nav {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .about {
+    width: 700px;
+  }
+
+  .tro {
+    padding-top: 200px;
+  }
+
+  .nav {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 1550px) and (max-width: 1800px) {
+  .nav {
+    font-size: 25px;
+  }
+
+  .navbar-brand {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 1800px) and (max-width: 2000px) {
+  .about {
+    font-size: 30px !important;
+    width: 1200px;
+  }
+
+  .me {
+    font-size: 50px !important;
+  }
+
+  .nav {
+    padding: 20px;
+    font-size: 35px;
+  }
+
+  .navbar-brand {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 2000px) and (max-width: 2900px) {
+  .about {
+    font-size: 50px !important;
+    width: 1700px;
+  }
+
+  .me {
+    font-size: 70px !important;
+  }
+
+  .nav {
+    padding: 30px;
+    font-size: 40px;
+  }
+
+  .navbar-brand {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 344px) {
+  .contact {
+    font-size: 40px !important;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 375px) {
+  .emails {
+    font-size: 15px !important;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 500px) {
+  .emails {
+    font-size: 20px !important;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 410px) {
+ .name {
+    font-size: 45px;
+  }
+
+  .line {
+    font-size: 15px !important;
+  }
+}
+
+@media (min-width: 410px) and (max-width: 550px) {
+ .name {
+    font-size: 60px;
+  }
+}
+
+@media (min-width: 550px) and (max-width: 667px) {
+  .name {
+    font-size: 80px;
+  }
+
+}
+
+@media (min-width: 1650px) and (max-width: 3000px) {
+  .name {
+    font-size: 250px !important;
+  }
+
+  .line {
+    font-size: 50px !important;
+    width: 80vw !important;
+  }
+}
+
 
